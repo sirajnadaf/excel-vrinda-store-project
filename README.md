@@ -1,5 +1,5 @@
 # excel-vrinda-store-project
-Hi fulks, here is my second excel project, i learnt lot of things in my previous project, and in my second project i  celared all the doubts and deep die in data analytics which is push me to grow more professional.
+Hello folks, here is my second excel project, i learnt lot of things in my previous project, and in my second project i  celared all the doubts and deep die in data analytics which is push me to grow more professional.
 The main objective is "Vrinda stores wants to create an annual sales report for 2022. vrinda can understand their customers and grow more sales in 2023."
 Here r some questions/ problems which i solved one by one,
 	**compare the sales and orders using single chart?**
